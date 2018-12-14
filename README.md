@@ -19,6 +19,6 @@ The script will highlight these required glyphs in grey and highlight glyphs tha
 
 Remember this is a quick and easily applied starting point but a starting point is all it is.
 
-¯\_(ツ)\_/¯
+(ツ)\_/¯
 
 ---
